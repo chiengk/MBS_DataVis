@@ -1,0 +1,29 @@
+
+.heading
+{
+color:blue;
+font-size: 40px;
+}
+
+.description
+{
+color:red;
+font-size: 30px;
+}
+
+.chart
+{
+	border: solid thin silver;
+	width: 450px;
+	height: 300px;
+	padding: 10px;
+	background: yellow;
+}
+
+
+.circ1
+{
+	height: 50;
+	stroke: 'Black';
+	fill: 'red';
+}
